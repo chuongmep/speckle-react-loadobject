@@ -17,7 +17,8 @@ Note : Please replace with your own streamId, objectId and serverUrl in `Speckle
 - Run `npm install` to install dependencies
 - Run `npm start` to start the app
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Click load data button to load data from speckle stream
 - View the console to see the data by Right click > Inspect > Console
 Preview 
 
-![](docs/firefox_Ip60ByeYXH.png)
+![](docs/firefox_PNEw5OBXCr.gif)
