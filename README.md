@@ -11,12 +11,12 @@
 Note : Please replace with your own streamId, objectId and serverUrl in `SpeckleLoader.js`
 # How to run
 
-- Download and install [Node.js](https://nodejs.org/en/download/) latest version
+- Download and install [Node.js](https://nodejs.org/en/download/) latest version (My version : v18.17.1)
 - Clone project 
 - Run `npm install` to install dependencies
 - Run `npm start` to start the app
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
+- View the console to see the data by Right click > Inspect > Console
 Preview 
 
 ![](docs/firefox_Ip60ByeYXH.png)
