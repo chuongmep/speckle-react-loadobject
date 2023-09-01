@@ -22,3 +22,7 @@ Note : Please replace with your own streamId, objectId and serverUrl in `Speckle
 Preview 
 
 ![](docs/firefox_PNEw5OBXCr.gif)
+
+# References
+- [Speckle Object Loader](https://github.com/specklesystems/speckle-server/tree/main/packages/objectloader#on-the-server)
+- [Speckle Object Loader Demo](https://codesandbox.io/s/competent-heisenberg-y3lx7c?file=/src/index.tsx)
